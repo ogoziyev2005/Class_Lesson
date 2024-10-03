@@ -1,0 +1,6 @@
+/Users/o.goziyev/CLionProjects/untitled5/cmake-build-debug/CMakeFiles/untitled5.dir
+/Users/o.goziyev/CLionProjects/untitled5/cmake-build-debug/CMakeFiles/problem.dir
+/Users/o.goziyev/CLionProjects/untitled5/cmake-build-debug/CMakeFiles/problem3.dir
+/Users/o.goziyev/CLionProjects/untitled5/cmake-build-debug/CMakeFiles/program4.dir
+/Users/o.goziyev/CLionProjects/untitled5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/o.goziyev/CLionProjects/untitled5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
